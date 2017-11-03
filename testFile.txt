@@ -1,0 +1,62 @@
+http://114.112.96.30:30000/#/login
+
+http://114.112.96.30:51100/#/biz/customer/list
+
+
+yunqiaodianzhang    运桥店长
+yunqiaoxiaoshou		运桥销售
+yezhifengdianzhang  业之峰店长
+yezhifengxiaoshou   业之峰销售		--委派测量
+xiaoshoujingli		销售经理
+xiaoshouzhuli		销售助理      
+jiazhuangduijieren  家装对接人
+shejizongjian		设计总监
+shejishi / shejs	设计师
+shendanyuan			审单员
+xiadanyuan			下单员
+shengchanzhuguan	生产主管
+caiwujingli			财务经理
+jingxiaoshangcaiwu	经销商财务
+chuyundiaodu		储运调度
+kuguan				库管
+songhuoyuan			送货员
+anzhuangdiaodu		安装调度
+anzhuanggong		安装工
+kefu				客服
+shoufuzhuguan		售服主管
+shoufuyuan			售服员
+dingzezhuguan		定责主管
+jiazhuangshejishi   家装设计师
+guozong				郭总
+
+密码  admin
+
+
+意风测试地址：http://yifengtest.polyhome.net/a?login
+
+
+登陆账号：
+      系统管理:admin  admin
+          店长:jydz
+          销售:jydg
+    设计师组长:jysjszz   --定制、下单员
+        设计师:jysjs
+        审单员:sdy
+        结算员:jsy
+    经销商财务:cw
+      工期特批:gqtp
+      折扣特批:zktp
+      安装调度:azdd
+        调运办:dyb
+    库房管理员:kg
+      技术人员:js
+    安装工组长:jmazzz
+        安装工:jmazg
+      客服人员:kf
+        定责人:dzr
+		
+	欧派拆单员: cdzz
+	
+
+      密    码:111
+	  
